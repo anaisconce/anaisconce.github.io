@@ -6,7 +6,7 @@ body {
 }
 
 .meta {
-  color: #132b40;
+  color: #1ba673;
 }
 
 .header .title {
@@ -28,7 +28,7 @@ body {
 }
 
 .supplier {
-  color: #1ba673;
+  color: #132b40;
   display: block;
 }
 
@@ -41,7 +41,7 @@ body {
   padding: 1px;
   margin-top: 1em;
   margin-bottom: 1em;
-  background: #888888;
+  background: #132b40;
   -webkit-print-color-adjust: exact !important;
   color-adjust: exact !important;
 }
@@ -59,7 +59,7 @@ body {
 
 table.items {
   width: 100%;
-  border: 1px solid #888888;
+  border: 1px solid #132b40;
   border-collapse: collapse;
 }
 
@@ -187,7 +187,7 @@ div.print {
 div.print a {
   background: #1ba673;
   display: block;
-  font-size: 50%;
+  font-size: 125%;
   color: white;
   text-decoration: none;
   padding: 0.25em;
