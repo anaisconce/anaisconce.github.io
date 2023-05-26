@@ -6,11 +6,11 @@ body {
 }
 
 .meta {
-  color: #ff8000;
+  color: #132b40;
 }
 
 .header .title {
-  font-size: 300%;
+  font-size: 200%;
   font-weight: bold;
 }
 
@@ -28,7 +28,7 @@ body {
 }
 
 .supplier {
-  color: #4682B4;
+  color: #1ba673;
   display: block;
 }
 
@@ -41,7 +41,7 @@ body {
   padding: 1px;
   margin-top: 1em;
   margin-bottom: 1em;
-  background: #ff8000;
+  background: #888888;
   -webkit-print-color-adjust: exact !important;
   color-adjust: exact !important;
 }
@@ -59,7 +59,7 @@ body {
 
 table.items {
   width: 100%;
-  border: 1px solid #ff8000;
+  border: 1px solid #888888;
   border-collapse: collapse;
 }
 
@@ -86,7 +86,7 @@ table.items td {
 }
 
 .name {
-  color: #000080;
+  color: #132b40;
 }
 
 .address {
@@ -124,7 +124,7 @@ div.summary .part {
 div.summary .total {
   display: block;
   flex-grow: 1;
-  background: #000080;
+  background: #1ba673;
   font-size: 140%;
 }
 
@@ -160,8 +160,8 @@ div.summary::after {
 
 .thanks {
   text-align: right;
-  color: #C83200;
-  font-size: 200%;
+  color: #132b40;
+  font-size: 100%;
 }
 
 div.instructions, .newlined, p.note {
@@ -185,9 +185,9 @@ div.print {
 }
 
 div.print a {
-  background: #C83200;
+  background: #1ba673;
   display: block;
-  font-size: 200%;
+  font-size: 50%;
   color: white;
   text-decoration: none;
   padding: 0.25em;
@@ -198,7 +198,7 @@ div.print a {
 }
 
 div.print a:hover {
-  background: #4682B4;
+  background: #29a699;
 }
 
 .done {
